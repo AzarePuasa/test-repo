@@ -15,7 +15,7 @@ require_once( get_stylesheet_directory() . '/lib/customize.php' );
 include_once( get_stylesheet_directory() . '/lib/output.php' );
 
 //* Child theme (do not remove)
-define( 'CHILD_THEME_NAME', 'Digital Pro' );
+define( 'CHILD_THEME_NAME', 'Digital Pro Test' );
 define( 'CHILD_THEME_URL', 'http://my.studiopress.com/themes/digital/' );
 define( 'CHILD_THEME_VERSION', '1.0.3' );
 
