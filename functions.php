@@ -19,7 +19,7 @@ define( 'CHILD_THEME_NAME', 'Digital Pro' );
 define( 'CHILD_THEME_URL', 'http://my.studiopress.com/themes/digital/' );
 define( 'CHILD_THEME_VERSION', '1.0.3' );
 
-//* Enqueue scripts and styles
+//* Enqueue scripts and styles - this is a test change.
 add_action( 'wp_enqueue_scripts', 'digital_scripts_styles' );
 function digital_scripts_styles() {
 
